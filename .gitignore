@@ -1,0 +1,13 @@
+.idea
+*.gpickle
+**/__pycache__
+output
+ign*
+/logs*
+*.pt
+*.lprof
+*test.py
+/results*
+!/data/rand/README.md
+.DS*
+*.ps1
